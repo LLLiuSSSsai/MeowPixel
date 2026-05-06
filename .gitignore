@@ -1,0 +1,12 @@
+unpackage/
+node_modules/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+.env
+.env.local
+.claude/
+.superpowers/

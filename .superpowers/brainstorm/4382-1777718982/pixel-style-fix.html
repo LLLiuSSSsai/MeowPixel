@@ -1,0 +1,222 @@
+<h2>🎨 像素风格视觉规范调整</h2>
+<p class="subtitle">基于需求文档参考素材，确保纯正 8-Bit 像素美学</p>
+
+<div style="background: #FFF3E0; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+  <h3 style="margin-top: 0; color: #E65100;">📌 需求文档参考素材</h3>
+  <ul style="font-size: 13px;">
+    <li><strong>像素猫咪</strong>：Stockcake - cozy-pixel-cat（温馨像素猫）</li>
+    <li><strong>对话框</strong>：Freepik - pixel-dialogue-boxes（复古游戏对话框）</li>
+    <li><strong>猫咪贴纸</strong>：Etsy - Stardew Valley cats（星露谷物语风格）</li>
+    <li><strong>像素森林</strong>：Stockcake - enchanted-pixel-forest（魔法像素森林）</li>
+    <li><strong>露营猫咪</strong>：Easy-peasy - chubby-british-cat（胖胖英短）</li>
+  </ul>
+</div>
+
+<div class="section" style="margin-bottom: 20px;">
+  <h3>✅ 正确的像素风格方向</h3>
+  <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 250px; background: #E8F5E9; padding: 15px; border-radius: 8px;">
+      <h4 style="margin-top: 0; color: #4CAF50;">应该这样</h4>
+      <ul style="margin: 0; padding-left: 20px; font-size: 13px;">
+        <li>使用 <strong>SVG 像素图形</strong>，每个像素用 rect 绘制</li>
+        <li>图标采用 <strong>8x8 / 16x16</strong> 像素网格</li>
+        <li>配色使用 <strong>复古游戏调色板</strong>（有限色数）</li>
+        <li>对话框使用 <strong>像素边框 + 尖角指示</strong></li>
+        <li>按钮采用 <strong>像素阴影 + 立体感</strong></li>
+        <li>动画使用 <strong>逐帧切换</strong>，非平滑过渡</li>
+      </ul>
+    </div>
+    <div style="flex: 1; min-width: 250px; background: #FFEBEE; padding: 15px; border-radius: 8px;">
+      <h4 style="margin-top: 0; color: #F44336;">避免这样</h4>
+      <ul style="margin: 0; padding-left: 20px; font-size: 13px;">
+        <li>❌ 使用 emoji 作为图标（🐱💬🛒）</li>
+        <li>❌ 圆角矩形按钮（border-radius）</li>
+        <li>❌ 渐变色背景（非像素化渐变）</li>
+        <li>❌ 平滑 CSS 动画过渡</li>
+        <li>❌ 现代扁平化设计风格</li>
+        <li>❌ 高饱和度现代配色</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-bottom: 20px;">
+  <h3>🎮 像素图标示例（正确风格）</h3>
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; background: #FFF; padding: 20px; border-radius: 8px; border: 1px solid #E0E0E0;">
+    <!-- 像素猫咪图标 -->
+    <div style="text-align: center;">
+      <svg viewBox="0 0 16 16" width="64" height="64" style="image-rendering: pixelated;">
+        <!-- 英短蓝猫 16x16 像素 -->
+        <rect x="4" y="2" width="8" height="1" fill="#78909C"/>
+        <rect x="3" y="3" width="10" height="1" fill="#90A4AE"/>
+        <rect x="2" y="4" width="12" height="1" fill="#B0BEC5"/>
+        <rect x="2" y="5" width="2" height="2" fill="#90A4AE"/>
+        <rect x="12" y="5" width="2" height="2" fill="#90A4AE"/>
+        <rect x="2" y="5" width="12" height="6" fill="#B0BEC5"/>
+        <rect x="5" y="7" width="2" height="2" fill="#263238"/>
+        <rect x="9" y="7" width="2" height="2" fill="#263238"/>
+        <rect x="7" y="9" width="2" height="1" fill="#263238"/>
+        <rect x="6" y="10" width="4" height="1" fill="#FFAB91"/>
+        <rect x="3" y="11" width="10" height="2" fill="#B0BEC5"/>
+        <rect x="4" y="13" width="3" height="2" fill="#B0BEC5"/>
+        <rect x="9" y="13" width="3" height="2" fill="#B0BEC5"/>
+        <rect x="6" y="12" width="4" height="1" fill="#ECEFF1"/>
+      </svg>
+      <div style="font-size: 11px; color: #666; margin-top: 5px;">猫咪图标</div>
+    </div>
+
+    <!-- 像素聊天图标 -->
+    <div style="text-align: center;">
+      <svg viewBox="0 0 16 16" width="64" height="64" style="image-rendering: pixelated;">
+        <rect x="2" y="2" width="12" height="1" fill="#5D4037"/>
+        <rect x="1" y="3" width="14" height="1" fill="#8D6E63"/>
+        <rect x="1" y="4" width="14" height="7" fill="#D7CCC8"/>
+        <rect x="1" y="11" width="14" height="1" fill="#8D6E63"/>
+        <rect x="2" y="12" width="12" height="1" fill="#5D4037"/>
+        <rect x="3" y="6" width="4" height="1" fill="#5D4037"/>
+        <rect x="3" y="8" width="6" height="1" fill="#5D4037"/>
+        <rect x="3" y="10" width="3" height="1" fill="#5D4037"/>
+        <rect x="3" y="13" width="2" height="2" fill="#D7CCC8"/>
+      </svg>
+      <div style="font-size: 11px; color: #666; margin-top: 5px;">聊天图标</div>
+    </div>
+
+    <!-- 像素商店图标 -->
+    <div style="text-align: center;">
+      <svg viewBox="0 0 16 16" width="64" height="64" style="image-rendering: pixelated;">
+        <rect x="3" y="2" width="10" height="1" fill="#E53935"/>
+        <rect x="2" y="3" width="12" height="1" fill="#EF5350"/>
+        <rect x="2" y="4" width="12" height="5" fill="#FFCDD2"/>
+        <rect x="2" y="9" width="12" height="1" fill="#8D6E63"/>
+        <rect x="4" y="10" width="3" height="4" fill="#A1887F"/>
+        <rect x="9" y="10" width="3" height="4" fill="#A1887F"/>
+        <rect x="4" y="10" width="3" height="1" fill="#5D4037"/>
+        <rect x="9" y="10" width="3" height="1" fill="#5D4037"/>
+        <rect x="5" y="6" width="2" height="2" fill="#4CAF50"/>
+        <rect x="9" y="6" width="2" height="2" fill="#FF9800"/>
+      </svg>
+      <div style="font-size: 11px; color: #666; margin-top: 5px;">商店图标</div>
+    </div>
+
+    <!-- 像素食物图标 -->
+    <div style="text-align: center;">
+      <svg viewBox="0 0 16 16" width="64" height="64" style="image-rendering: pixelated;">
+        <!-- 小鱼干 -->
+        <rect x="4" y="5" width="8" height="1" fill="#FFB74D"/>
+        <rect x="3" y="6" width="10" height="2" fill="#FFA726"/>
+        <rect x="2" y="8" width="12" height="2" fill="#FF9800"/>
+        <rect x="3" y="10" width="10" height="1" fill="#F57C00"/>
+        <rect x="4" y="11" width="8" height="1" fill="#EF6C00"/>
+        <rect x="2" y="7" width="2" height="2" fill="#FFCC80"/>
+        <rect x="12" y="7" width="2" height="2" fill="#FFCC80"/>
+        <rect x="6" y="8" width="1" height="1" fill="#263238"/>
+        <rect x="9" y="8" width="1" height="1" fill="#263238"/>
+      </svg>
+      <div style="font-size: 11px; color: #666; margin-top: 5px;">小鱼干</div>
+    </div>
+
+    <!-- 像素金币图标 -->
+    <div style="text-align: center;">
+      <svg viewBox="0 0 16 16" width="64" height="64" style="image-rendering: pixelated;">
+        <rect x="5" y="2" width="6" height="1" fill="#FFD54F"/>
+        <rect x="4" y="3" width="8" height="1" fill="#FFEB3B"/>
+        <rect x="3" y="4" width="10" height="1" fill="#FFEE58"/>
+        <rect x="3" y="5" width="10" height="6" fill="#FFEB3B"/>
+        <rect x="3" y="11" width="10" height="1" fill="#FDD835"/>
+        <rect x="4" y="12" width="8" height="1" fill="#FBC02D"/>
+        <rect x="5" y="13" width="6" height="1" fill="#F9A825"/>
+        <rect x="6" y="7" width="4" height="2" fill="#FFF176"/>
+        <rect x="7" y="6" width="2" height="1" fill="#FFF176"/>
+        <rect x="7" y="9" width="2" height="1" fill="#FFF176"/>
+      </svg>
+      <div style="font-size: 11px; color: #666; margin-top: 5px;">金币</div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-bottom: 20px;">
+  <h3>🖼️ 像素对话框样式</h3>
+  <div style="background: #FFF; padding: 20px; border-radius: 8px; border: 1px solid #E0E0E0;">
+    <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+      <!-- RPG 风格对话框 -->
+      <div style="flex: 1; min-width: 280px;">
+        <svg viewBox="0 0 280 100" width="100%" style="image-rendering: pixelated;">
+          <!-- 对话框背景 -->
+          <rect x="0" y="0" width="280" height="80" fill="#1A237E" stroke="#FFF" stroke-width="4"/>
+          <!-- 像素边框装饰 -->
+          <rect x="8" y="8" width="264" height="64" fill="none" stroke="#7986CB" stroke-width="2"/>
+          <!-- 文字区域 -->
+          <text x="20" y="35" fill="#FFF" font-family="monospace" font-size="14">喵喵～喵呜！</text>
+          <text x="20" y="55" fill="#FFEB3B" font-family="monospace" font-size="12">[点击翻译]</text>
+          <!-- 尖角指示 -->
+          <rect x="20" y="80" width="16" height="8" fill="#1A237E"/>
+          <rect x="24" y="88" width="8" height="8" fill="#1A237E"/>
+        </svg>
+        <div style="font-size: 11px; color: #666; text-align: center; margin-top: 5px;">RPG 对话框样式</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-bottom: 20px;">
+  <h3>🎨 像素风配色方案</h3>
+  <div style="background: #FFF; padding: 15px; border-radius: 8px; border: 1px solid #E0E0E0;">
+    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #FFF8E7; border: 2px solid #5D4037; image-rendering: pixelated;"></div>
+        <div style="font-size: 10px; color: #666;">奶油白背景</div>
+      </div>
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #FFB7C5; border: 2px solid #5D4037;"></div>
+        <div style="font-size: 10px; color: #666;">樱花粉点缀</div>
+      </div>
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #B0BEC5; border: 2px solid #5D4037;"></div>
+        <div style="font-size: 10px; color: #666;">英短蓝猫</div>
+      </div>
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #5D4037; border: 2px solid #3E2723;"></div>
+        <div style="font-size: 10px; color: #666;">像素边框</div>
+      </div>
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #1A237E; border: 2px solid #000051;"></div>
+        <div style="font-size: 10px; color: #666;">对话框蓝</div>
+      </div>
+      <div style="text-align: center;">
+        <div style="width: 50px; height: 50px; background: #FFEB3B; border: 2px solid #F57F17;"></div>
+        <div style="font-size: 10px; color: #666;">金币黄</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="background: #E3F2FD; padding: 15px; border-radius: 8px;">
+  <h3 style="margin-top: 0; color: #1976D2;">📝 修正说明</h3>
+  <p style="margin: 0; font-size: 13px;">
+    我会按照纯正的 8-Bit 像素风格重新设计所有图形元素：
+  </p>
+  <ul style="margin: 10px 0 0 0; padding-left: 20px; font-size: 13px;">
+    <li>所有图标使用 SVG 像素绘制（rect 像素块）</li>
+    <li>对话框采用复古 RPG 样式（像素边框 + 尖角）</li>
+    <li>按钮使用像素立体感设计</li>
+    <li>动画采用逐帧切换方式</li>
+    <li>配色参考需求文档中的素材风格</li>
+  </ul>
+</div>
+
+<div class="options" style="margin-top: 20px;">
+  <div class="option" data-choice="approve" onclick="toggleSelect(this)">
+    <div class="letter">✓</div>
+    <div class="content">
+      <h3>确认像素风格方向</h3>
+      <p>按照这个方向调整设计文档</p>
+    </div>
+  </div>
+  <div class="option" data-choice="modify" onclick="toggleSelect(this)">
+    <div class="letter">✎</div>
+    <div class="content">
+      <h3>还有补充</h3>
+      <p>请在终端告诉我更多要求</p>
+    </div>
+  </div>
+</div>

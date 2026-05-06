@@ -1,0 +1,19 @@
+<!-- 像素商店图标 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="64" height="64">
+  <!-- 屋顶 -->
+  <rect x="4" y="4" width="24" height="4" fill="#FFB6C1"/>
+  <rect x="2" y="8" width="28" height="4" fill="#FFC4D4"/>
+  <!-- 房子主体 -->
+  <rect x="4" y="12" width="24" height="16" fill="#FFF5EE"/>
+  <rect x="4" y="12" width="24" height="16" stroke="#D4A574" stroke-width="2" fill="none"/>
+  <!-- 门 -->
+  <rect x="12" y="18" width="8" height="10" fill="#FFE4B5"/>
+  <rect x="12" y="18" width="8" height="10" stroke="#D4A574" stroke-width="1" fill="none"/>
+  <!-- 门把手 -->
+  <rect x="17" y="23" width="2" height="2" fill="#D4A574"/>
+  <!-- 招牌 -->
+  <rect x="8" y="14" width="16" height="4" fill="#FFB6C1"/>
+  <!-- 小鱼干装饰 -->
+  <rect x="6" y="15" width="4" height="2" fill="#FFE4B5"/>
+  <rect x="22" y="15" width="4" height="2" fill="#FFE4B5"/>
+</svg>

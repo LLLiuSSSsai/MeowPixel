@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="160" height="160">
+  <!-- 温馨英短猫咪 - 坐姿 -->
+  <!-- 尾巴 -->
+  <rect x="62" y="48" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="69" y="44" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="69" y="41" width="7" height="7" fill="#A8B4C8"/>
+
+  <!-- 身体 -->
+  <rect x="21" y="48" width="35" height="21" fill="#B8C4D8"/>
+  <rect x="28" y="45" width="21" height="7" fill="#B8C4D8"/>
+
+  <!-- 胸前白毛 -->
+  <rect x="31" y="52" width="14" height="10" fill="#FFF5EE"/>
+  <rect x="34" y="50" width="8" height="4" fill="#FFF5EE"/>
+
+  <!-- 头部 -->
+  <rect x="24" y="17" width="32" height="28" fill="#B8C4D8"/>
+
+  <!-- 左耳 -->
+  <rect x="21" y="10" width="14" height="14" fill="#B8C4D8"/>
+  <rect x="24" y="13" width="7" height="7" fill="#FFB6C1"/>
+
+  <!-- 右耳 -->
+  <rect x="45" y="10" width="14" height="14" fill="#B8C4D8"/>
+  <rect x="48" y="13" width="7" height="7" fill="#FFB6C1"/>
+
+  <!-- 左眼 -->
+  <rect x="28" y="24" width="10" height="10" fill="#4A5568"/>
+  <rect x="31" y="27" width="4" height="4" fill="#FFF"/>
+
+  <!-- 右眼 -->
+  <rect x="42" y="24" width="10" height="10" fill="#4A5568"/>
+  <rect x="45" y="27" width="4" height="4" fill="#FFF"/>
+
+  <!-- 鼻子 -->
+  <rect x="35" y="34" width="7" height="4" fill="#FFB6C1"/>
+
+  <!-- 嘴巴 -->
+  <rect x="32" y="38" width="14" height="3" fill="#FFB6C1"/>
+
+  <!-- 胡须 -->
+  <rect x="14" y="30" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="14" y="34" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="56" y="30" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="56" y="34" width="10" height="2" fill="#C8B8D8"/>
+
+  <!-- 前腿 -->
+  <rect x="24" y="62" width="11" height="11" fill="#B8C4D8"/>
+  <rect x="42" y="62" width="11" height="11" fill="#B8C4D8"/>
+
+  <!-- 爪子 -->
+  <rect x="24" y="70" width="11" height="4" fill="#A8B4C8"/>
+  <rect x="42" y="70" width="11" height="4" fill="#A8B4C8"/>
+
+  <!-- 后腿 -->
+  <rect x="52" y="55" width="11" height="14" fill="#B8C4D8"/>
+  <rect x="52" y="66" width="11" height="4" fill="#A8B4C8"/>
+
+  <!-- 腮红 -->
+  <rect x="21" y="34" width="7" height="4" fill="#FFB6C1" opacity="0.6"/>
+  <rect x="52" y="34" width="7" height="4" fill="#FFB6C1" opacity="0.6"/>
+</svg>

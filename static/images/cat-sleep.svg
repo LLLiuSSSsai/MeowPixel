@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="160" height="160">
+  <!-- 睡觉的英短猫咪 - 蜷缩 -->
+  <!-- 尾巴 - 包围身体 -->
+  <rect x="10" y="48" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="10" y="41" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="14" y="34" width="7" height="7" fill="#A8B4C8"/>
+
+  <!-- 身体 - 蜷缩形状 -->
+  <rect x="17" y="41" width="42" height="28" fill="#B8C4D8"/>
+  <rect x="24" y="38" width="32" height="7" fill="#B8C4D8"/>
+  <rect x="31" y="34" width="21" height="7" fill="#B8C4D8"/>
+
+  <!-- 胸前白毛 -->
+  <rect x="35" y="48" width="14" height="10" fill="#FFF5EE"/>
+
+  <!-- 头部 - 趴着 -->
+  <rect x="28" y="24" width="28" height="21" fill="#B8C4D8"/>
+
+  <!-- 左耳 -->
+  <rect x="24" y="17" width="11" height="11" fill="#B8C4D8"/>
+  <rect x="27" y="20" width="5" height="5" fill="#FFB6C1"/>
+
+  <!-- 右耳 -->
+  <rect x="45" y="17" width="11" height="11" fill="#B8C4D8"/>
+  <rect x="48" y="20" width="5" height="5" fill="#FFB6C1"/>
+
+  <!-- 闭着的眼睛 -->
+  <rect x="32" y="31" width="7" height="2" fill="#A8B4C8"/>
+  <rect x="45" y="31" width="7" height="2" fill="#A8B4C8"/>
+
+  <!-- 鼻子 -->
+  <rect x="38" y="34" width="5" height="3" fill="#FFB6C1"/>
+
+  <!-- 爪子 - 收着 -->
+  <rect x="31" y="59" width="10" height="7" fill="#B8C4D8"/>
+  <rect x="42" y="59" width="10" height="7" fill="#B8C4D8"/>
+
+  <!-- Zzz 睡眠符号 -->
+  <text x="58" y="20" font-size="14" fill="#B8A8D8" font-weight="bold">Z</text>
+  <text x="64" y="14" font-size="11" fill="#C8B8E8">z</text>
+  <text x="68" y="10" font-size="8" fill="#D8C8F8">z</text>
+</svg>

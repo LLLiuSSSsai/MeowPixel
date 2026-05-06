@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- 背景圆 -->
+  <circle cx="32" cy="32" r="30" fill="#A0AEC0"/>
+
+  <!-- 猫脸 - 英短蓝猫灰蓝色 -->
+  <ellipse cx="32" cy="36" rx="22" ry="18" fill="#718096"/>
+
+  <!-- 耳朵 -->
+  <polygon points="14,18 20,30 10,28" fill="#718096"/>
+  <polygon points="50,18 44,30 54,28" fill="#718096"/>
+  <polygon points="16,20 20,28 13,26" fill="#A0AEC0"/>
+  <polygon points="48,20 44,28 51,26" fill="#A0AEC0"/>
+
+  <!-- 额头 -->
+  <ellipse cx="32" cy="28" rx="16" ry="12" fill="#8E9AAF"/>
+
+  <!-- 脸颊 -->
+  <ellipse cx="22" cy="40" rx="8" ry="6" fill="#A0AEC0"/>
+  <ellipse cx="42" cy="40" rx="8" ry="6" fill="#A0AEC0"/>
+
+  <!-- 眼睛 -->
+  <ellipse cx="24" cy="34" rx="5" ry="6" fill="#2D3748"/>
+  <ellipse cx="40" cy="34" rx="5" ry="6" fill="#2D3748"/>
+  <circle cx="25" cy="32" r="2" fill="#FFFFFF"/>
+  <circle cx="41" cy="32" r="2" fill="#FFFFFF"/>
+
+  <!-- 鼻子 -->
+  <ellipse cx="32" cy="42" rx="3" ry="2" fill="#F687B3"/>
+
+  <!-- 嘴巴 -->
+  <path d="M 28 45 Q 32 48 36 45" stroke="#5A6474" stroke-width="1.5" fill="none"/>
+
+  <!-- 胡须 -->
+  <line x1="10" y1="38" x2="20" y2="40" stroke="#5A6474" stroke-width="1"/>
+  <line x1="10" y1="42" x2="20" y2="43" stroke="#5A6474" stroke-width="1"/>
+  <line x1="44" y1="40" x2="54" y2="38" stroke="#5A6474" stroke-width="1"/>
+  <line x1="44" y1="43" x2="54" y2="42" stroke="#5A6474" stroke-width="1"/>
+</svg>

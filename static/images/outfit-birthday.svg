@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <!-- 生日帽 - 只在头顶，不遮脸 -->
+  <!-- 派对帽（在头顶） -->
+  <polygon points="40,4 28,28 52,28" fill="#FF80AB"/>
+  <polygon points="40,4 32,28 40,28" fill="#FF4081"/>
+  <!-- 彩色条纹 -->
+  <rect x="30" y="14" width="20" height="3" fill="#FFEB3B"/>
+  <rect x="28" y="20" width="24" height="3" fill="#81D4FA"/>
+  <!-- 帽顶装饰球 -->
+  <circle cx="40" cy="6" r="4" fill="#FFEB3B"/>
+  <!-- 领口小领结 -->
+  <rect x="34" y="44" width="12" height="8" fill="#FF80AB"/>
+  <rect x="36" y="46" width="8" height="4" fill="#FF4081"/>
+</svg>

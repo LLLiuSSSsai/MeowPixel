@@ -1,0 +1,121 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "多多的小窝",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "喵言喵语",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/store/store",
+			"style": {
+				"navigationBarTitleText": "喵喵杂货铺",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/goods-detail/goods-detail",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/inventory/inventory",
+			"style": {
+				"navigationBarTitleText": "多多的背包",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/garden/garden",
+			"style": {
+				"navigationBarTitleText": "秘密花园",
+				"navigationBarBackgroundColor": "#E8F5E9",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E8F5E9",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/white-noise/white-noise",
+			"style": {
+				"navigationBarTitleText": "白噪音电台",
+				"navigationBarBackgroundColor": "#E3F2FD",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E3F2FD",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/games/games",
+			"style": {
+				"navigationBarTitleText": "游戏中心",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/games/catch-mouse",
+			"style": {
+				"navigationBarTitleText": "抓老鼠",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/games/memory-cards",
+			"style": {
+				"navigationBarTitleText": "翻牌记忆",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/games/catch-food",
+			"style": {
+				"navigationBarTitleText": "接食物",
+				"navigationBarBackgroundColor": "#FFF5F8",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#FFF5F8",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "MeowPixel",
+		"navigationBarBackgroundColor": "#FFF5F8",
+		"backgroundColor": "#FFF5F8"
+	},
+	"uniIdRouter": {}
+}

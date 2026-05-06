@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="160" height="160">
+  <!-- 开心的英短猫咪 -->
+  <!-- 尾巴 - 翘起来 -->
+  <rect x="62" y="41" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="66" y="34" width="7" height="7" fill="#B8C4D8"/>
+  <rect x="70" y="27" width="7" height="7" fill="#A8B4C8"/>
+
+  <!-- 身体 -->
+  <rect x="21" y="48" width="35" height="21" fill="#B8C4D8"/>
+  <rect x="28" y="45" width="21" height="7" fill="#B8C4D8"/>
+
+  <!-- 胸前白毛 -->
+  <rect x="31" y="52" width="14" height="10" fill="#FFF5EE"/>
+  <rect x="34" y="50" width="8" height="4" fill="#FFF5EE"/>
+
+  <!-- 头部 - 微微上扬 -->
+  <rect x="24" y="14" width="32" height="28" fill="#B8C4D8"/>
+
+  <!-- 左耳 -->
+  <rect x="21" y="7" width="14" height="14" fill="#B8C4D8"/>
+  <rect x="24" y="10" width="7" height="7" fill="#FFB6C1"/>
+
+  <!-- 右耳 -->
+  <rect x="45" y="7" width="14" height="14" fill="#B8C4D8"/>
+  <rect x="48" y="10" width="7" height="7" fill="#FFB6C1"/>
+
+  <!-- 开心的眼睛 - 弯弯的 -->
+  <rect x="28" y="24" width="4" height="4" fill="#4A5568"/>
+  <rect x="35" y="24" width="4" height="4" fill="#4A5568"/>
+  <rect x="42" y="24" width="4" height="4" fill="#4A5568"/>
+  <rect x="49" y="24" width="4" height="4" fill="#4A5568"/>
+
+  <!-- 鼻子 -->
+  <rect x="35" y="31" width="7" height="4" fill="#FFB6C1"/>
+
+  <!-- 开心的嘴巴 - 大大的 -->
+  <rect x="32" y="35" width="14" height="4" fill="#FFB6C1"/>
+  <rect x="35" y="39" width="7" height="3" fill="#FFB6C1"/>
+
+  <!-- 胡须 -->
+  <rect x="14" y="28" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="14" y="31" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="56" y="28" width="10" height="2" fill="#C8B8D8"/>
+  <rect x="56" y="31" width="10" height="2" fill="#C8B8D8"/>
+
+  <!-- 前腿 -->
+  <rect x="24" y="62" width="11" height="11" fill="#B8C4D8"/>
+  <rect x="42" y="62" width="11" height="11" fill="#B8C4D8"/>
+
+  <!-- 爪子 -->
+  <rect x="24" y="70" width="11" height="4" fill="#A8B4C8"/>
+  <rect x="42" y="70" width="11" height="4" fill="#A8B4C8"/>
+
+  <!-- 后腿 -->
+  <rect x="52" y="55" width="11" height="14" fill="#B8C4D8"/>
+  <rect x="52" y="66" width="11" height="4" fill="#A8B4C8"/>
+
+  <!-- 腮红 - 更明显 -->
+  <rect x="21" y="31" width="7" height="4" fill="#FFB6C1" opacity="0.8"/>
+  <rect x="52" y="31" width="7" height="4" fill="#FFB6C1" opacity="0.8"/>
+
+  <!-- 爱心特效 -->
+  <text x="8" y="20" font-size="12" fill="#FFB6C1">💕</text>
+  <text x="62" y="14" font-size="10" fill="#FFB6C1">✨</text>
+</svg>
